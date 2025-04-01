@@ -1,0 +1,21 @@
+[
+  {
+    "nombre": "Smartphone",
+    "marca": "Samsung",
+    "precio": 899.99,
+    "disponible": true,
+    "modelo": "Galaxy S23",
+    "procesador": "Snapdragon 8 Gen 2",
+    "almacenamiento": "256GB",
+    "ram": "12GB",
+    "color": "Phantom Black",
+    "peso": "168g",
+    "pantalla": "6.1\"",
+    "resolucion": "2340x1080",
+    "puertos": ["USB-C"],
+    "bateria": "24 horas",
+    "sistema_operativo": "Android 13",
+    "categoria": "Celulares"
+  }
+]
+  
